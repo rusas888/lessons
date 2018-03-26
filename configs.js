@@ -1,7 +1,7 @@
 module.exports = {
 	database: {
-		host: 'localhost',
+		host: '192.168.4.196',
 		port: 27017,
-		url: 'mongodb://127.0.0.1:27017/lesson11mongo'
+		url: 'mongodb://192.168.4.196:27017/lesson11mongo'
 	}
 }
