@@ -23,18 +23,6 @@ render(
   		<MainSection />
   	</div>
   	<Footer date={(new Date()).toString()}/>
-  	
   </div>,
   document.getElementById('root')
 )
-
-
-
-
-
-
-
-
-
-
-
